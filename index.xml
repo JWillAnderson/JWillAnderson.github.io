@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jander.io</title>
-    <link>https://jander.io/</link>
-    <description>Recent content on jander.io</description>
+    <title>jwillanderson.github.io</title>
+    <link>/</link>
+    <description>Recent content on jwillanderson.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jander.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
